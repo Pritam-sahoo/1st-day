@@ -1,0 +1,59 @@
+{
+  "emptor": [
+    {
+      "id": 1,
+      "Name": "Pratyush",
+      "Surname": "Sahoo"
+    },
+    {
+      "id": 2,
+      "Name": "Rohit",
+      "Surname": "Sharma"
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 3
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 4
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 5
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 6
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 7
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 8
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 9
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 10
+    },
+    {
+      "Name": "priyanshu",
+      "Surname": "jena",
+      "id": 11
+    }
+  ]
+}
